@@ -1,0 +1,11 @@
++ SEEN_SIGN_WEAKNESS
+
+You encounter a dune from which you can get a good view of the shimmering
+building to the north. From here you can clearly see that it's surrounded by a
+fence. Right in front of the fence is a sign. The sign is old and cracked, you
+get the impression that a light kick would take it, and a portion of the fence,
+down.
+
+=
+Back
+@23

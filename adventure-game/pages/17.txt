@@ -1,0 +1,26 @@
++ GRUMBLE1
+? GRUMBLE1 { +GRUMBLE2 }
+? GRUMBLE2 { +GRUMBLE3 }
+? GRUMBLE3 { +GRUMBLE4 }
+
+"Grumble grumble..."
+
+? GRUMBLE2 {
+"Grumble..."
+}
+
+? GRUMBLE3 {
+It looks like the man has hurt his toe.
+}
+
+=
+? GRUMBLE3 {
+"What happened to your toe, Sir?"
+@18
+}
+
+Whatever, leave this loon to his own devices.
+@14
+
+"Excuse me, Sir?"
+@17

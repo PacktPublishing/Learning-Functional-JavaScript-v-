@@ -1,0 +1,12 @@
+The sign says
+
+"Lakeside park. No unauthorized access"
+
+=
+Head back
+@2
+
+? SEEN_SIGN_WEAKNESS {
+Kick the sign right where it's cracked
+@24
+}

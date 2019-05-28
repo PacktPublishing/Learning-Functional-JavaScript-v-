@@ -1,0 +1,13 @@
++ TAKING_IT_IN
+
+Good idea! We should all stop to take in our environment once in a while. There
+is desert as far as the eye can see in most directions, except to the north,
+where there is a huge shimmering building. It looks like there might be a fence
+of some sort surrounding it.
+
+=
+Fine, let's go closer
+@2
+
+Study the environment even closer
+@4

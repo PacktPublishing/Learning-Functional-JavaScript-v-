@@ -1,0 +1,14 @@
+As it turns out, the ships aren't all called Rocinante after all. It just so
+happened that the first few you saw had "Rocinante" printed on them, but were
+probably decoys.
+
+Further back in the hall you find ships with different names, and finally, the
+elusive Rocinante is in front of you.
+
+=
+
+Take her for a spin
+@29
+
+Nah, go back
+@26

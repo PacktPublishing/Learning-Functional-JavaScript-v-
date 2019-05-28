@@ -1,0 +1,118 @@
+@import url('normalize.css');
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, .mod {margin: 20px;}
+ul, ol {padding: 0;}
+.img {float: left; margin-right: 20px;}
+.img-ext {float: right; margin-left: 20px;}
+.media .bd > * {margin-left: 0; margin-right: 0;}
+.media .bd > :first-child {margin-top: 0;}
+.media, .row, .bd {overflow: hidden;}
+.row {clear: left;}
+.col {float: left; min-height: 1.5em;}
+.c1-2 {width: 50%;}
+.c1-3 {width: 33.3333%;}
+.c2-3 {width: 66.6666%;}
+.c1-4 {width: 25%;}
+.c3-4 {width: 75%;}
+.c1-5 {width: 20%;}
+.c2-5 {width: 40%;}
+.c3-5 {width: 60%;}
+.c4-5 {width: 40%;}
+.c1-6 {width: 16.6667%}
+.c1-16 {width: 6.6666%}
+.col:last-child {float: none; width: auto; overflow: hidden;}
+img {max-width: 100%;}
+.dark {background: #121212; color: #fff;}
+fieldset {border: none; padding: 0; margin: 0;}
+.tight-s h1, .tight-s h2, .tight-s h3, .tight-s h4, .tight-s h5, .tight-s h6, .tight-s p, .tight-s ul, .tight-s ol, .tight-s .mod {margin-top: 10px; margin-bottom: 10px;}
+.warn {color: #c00;}
+.right {float: right;}
+
+.man, .mhn, .mln { margin-left: 0 !important; }
+.man, .mhn, .mrn { margin-right: 0 !important; }
+.man, .mvn, .mtn { margin-top: 0 !important; }
+.man, .mvn, .mbn { margin-bottom: 0 !important; }
+
+.mas, .mhs, .mls { margin-left: 10px !important; }
+.mas, .mhs, .mrs { margin-right: 10px !important; }
+.mas, .mvs, .mts { margin-top: 10px !important; }
+.mas, .mvs, .mbs { margin-bottom: 10px !important; }
+
+.mam, .mhm, .mlm { margin-left: 20px !important; }
+.mam, .mhm, .mrm { margin-right: 20px !important; }
+.mam, .mvm, .mtm { margin-top: 20px !important; }
+.mam, .mvm, .mbm { margin-bottom: 20px !important; }
+
+.mal, .mhl, .mll { margin-left: 40px !important; }
+.mal, .mhl, .mrl { margin-right: 40px !important; }
+.mal, .mvl, .mtl { margin-top: 40px !important; }
+.mal, .mvl, .mbl { margin-bottom: 40px !important; }
+
+.pan, .phn, .pln { padding-left: 0; }
+.pan, .phn, .prn { padding-right: 0; }
+.pan, .pvn, .ptn { padding-top: 0; }
+.pan, .pvn, .pbn { padding-bottom: 0; }
+
+.pas, .phs, .pls { padding-left: 10px; }
+.pas, .phs, .prs { padding-right: 10px; }
+.pas, .pvs, .pts { padding-top: 10px; }
+.pas, .pvs, .pbs { padding-bottom: 10px; }
+
+.pam, .phm, .plm { padding-left: 20px; }
+.pam, .phm, .prm { padding-right: 20px; }
+.pam, .pvm, .ptm { padding-top: 20px; }
+.pam, .pvm, .pbm { padding-bottom: 20px; }
+
+.pal, .phl, .pll { padding-left: 40px; }
+.pal, .phl, .prl { padding-right: 40px; }
+.pal, .pvl, .ptl { padding-top: 40px; }
+.pal, .pvl, .pbl { padding-bottom: 40px; }
+
+.clickable {
+  background: transparent;
+  border: none;
+  color: #00c;
+  outline: none;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.clickable:hover {
+  text-decoration: none;
+}
+
+html, body {
+  height: 100%;
+}
+
+.game {
+  background: url(../images/carina_nebula.jpg);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: table;
+}
+
+.wrapper {
+  display: table-cell;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.stage {
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 50px;
+  color: #fff;
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px 50px;
+}
+
+.stage .clickable:before {
+  content: "→ ";
+}
+
+.stage .clickable {
+  color: #fff;
+  text-decoration: none;
+}

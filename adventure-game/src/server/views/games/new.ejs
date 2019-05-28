@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>2112: An adventure game in space</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/styles/game.css" type="text/css">
+  </head>
+  <body>
+    <div class="dark bd mbl">
+      <h1>2112: An adventure game</h1>
+    </div>
+    <h2>Create new player</h2>
+    <% if (typeof error !== 'undefined') { %>
+      <p class="warn"><%= error %></p>
+    <% } %>
+    <form action="/games" method="post" class="tight-s">
+      <p><input type="text" name="player" placeholder="Player name"></p>
+      <p><button type="submit">Do it</button></p>
+    </form>
+  </body>
+</html>

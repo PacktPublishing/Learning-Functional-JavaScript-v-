@@ -1,0 +1,11 @@
+You head north, and the shimmering building gets closer by the minute. It sure is huge.
+
+=
+Keep north!
+@2
+
+Head back
+@0
+
+Have a look around
+@3

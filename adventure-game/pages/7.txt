@@ -1,0 +1,18 @@
+You are in a space station. There are no other people around, and the state of
+the various equipment indicates that no one has been for some time. The door on
+your left reads "Space departures". The door on your left reads "Air duct".
+
+Suddenly you hear a scream from the air duct.
+
+=
+Quickly! Into the air duct, someone may be in danger
+@2
+
+Head into the departure hall looking for your ship
+@3
+
+Study this place closer
+@4
+
+Go back
+@0

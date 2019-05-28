@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>2112: An adventure game in space</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/styles/game.css" type="text/css">
+  </head>
+  <body>
+    <div class="dark bd mbl">
+      <h1>2112: An adventure game</h1>
+    </div>
+    <% if (games.length === 0) { %>
+      <h2>You have no games!</h2>
+    <% } else { %>
+      <h2>Your games</h2>
+      <% games.forEach(function (game) { %>
+        <p><a href="/games/<%= game.id %>"><%= game.player %></a></p>
+      <% }); %>
+    <% } %>
+    <p>
+      <a href="/games/new">Create new game</a>
+    </p>
+  </body>
+</html>

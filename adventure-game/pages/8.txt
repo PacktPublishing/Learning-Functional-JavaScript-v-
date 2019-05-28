@@ -1,0 +1,8 @@
+You head west. There's sand everywhere.
+
+=
+Go back
+@0
+
+Keep west
+@9

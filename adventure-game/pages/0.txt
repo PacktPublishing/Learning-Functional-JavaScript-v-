@@ -1,0 +1,19 @@
+You are in a vast desert. To the north you see a shimmering building. To the
+south there is more desert.
+
+To the west you see more desert.
+
+To the east... Did you guess it yet? More desert.
+
+=
+Head north
+@1
+
+Head east
+@20
+
+Head west
+@8
+
+Head south
+@14

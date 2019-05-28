@@ -1,0 +1,10 @@
+That shimmering building looks like some sort of space station. In the middle of
+the desert. That's odd. It's surrounded by a fence, and on the fence there is a
+sign.
+
+=
+Read the sign
+@6
+
+Head back
+@1

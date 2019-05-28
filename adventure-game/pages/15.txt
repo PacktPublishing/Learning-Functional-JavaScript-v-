@@ -1,0 +1,14 @@
+In the middle of the desert, you encounter an old man. He's naked, but his long
+hair and beard functions roughly as clothing. He's talking to himself.
+
+=
+? !RUDE_TO_OLD_MAN {
+"Hey, old dude! What's going on here?"
+@16
+}
+
+"Excuse me, sir, can you tell me what that building over there is?"
+@17
+
+Walk away
+@14

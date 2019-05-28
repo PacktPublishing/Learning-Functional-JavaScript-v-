@@ -1,0 +1,19 @@
+{
+  "name": "6.2",
+  "version": "0.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "referee": "~1.1.1",
+    "formatio": "~1.1.2",
+    "mocha": "~2.2.5"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Christian Johansen (christian@cjohansen.no)",
+  "license": "ISC"
+}

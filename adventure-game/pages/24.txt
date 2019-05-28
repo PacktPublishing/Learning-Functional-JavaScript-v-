@@ -1,0 +1,9 @@
+You kick down that shoddy sign, and it rips a human-sized hole in the fence. How
+convenient.
+
+=
+I might bruise myself climbing through, head back.
+@6
+
+Climb through.
+@25

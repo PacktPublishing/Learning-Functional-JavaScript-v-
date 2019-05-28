@@ -1,0 +1,27 @@
+? ROCINANTE_DECOY {
+Good call! There was something fishy about that ship, all ready to go.
+}
+
+You're in the space port. You would've thought there were some people here, but
+you're all alone. There are many ships around.
+
+? ROCINANTE {
+The ships seem to all have names.
+}
+
+=
+
+? !ROCINANTE {
+Well, not much to do in some skanky old abondoned space port. Leave this place.
+@6
+}
+
+? ROCINANTE, !ROCINANTE_DECOY {
+Look for the Rocinante
+@27
+}
+
+? ROCINANTE_DECOY {
+Look for the REAL Rocinante
+@28
+}

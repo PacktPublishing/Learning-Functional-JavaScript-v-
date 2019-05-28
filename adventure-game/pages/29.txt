@@ -1,0 +1,13 @@
+You get in the cockpit, hit the start button, and things happen. You can see the
+roof of the ship hall opening, and the ship itself starts roaring. Before you
+know it, you're on your way to exciting adventures in space. Who knows, maybe
+you'll even find that elusive black hole of Cygnus X-1?
+
+This is - temporarily - the end of the adventure game. It is now up to you, the
+programmer, to take the story further, or add more technical features, or
+possibly brush up on the UI side of things. Badges could certainly need some
+love.
+
+You will find the very end of the story (this page) in pages/29.txt
+
+Enjoy!

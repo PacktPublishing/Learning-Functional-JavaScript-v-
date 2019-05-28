@@ -1,0 +1,16 @@
++ ROCINANTE_DECOY
+
+The space port ship hall is quite big, and you envision spending most of the day
+looking for that one ship, but as it turns out, these ships are all called
+"Rocinante". How convenient. You try the door on the closest one, and it opens
+willingly.
+
+Once in the cockpit, you find that the engine is one, and there's a "Go" button.
+
+=
+
+Hit that button!
+@30
+
+Nah, leave this ship
+@26

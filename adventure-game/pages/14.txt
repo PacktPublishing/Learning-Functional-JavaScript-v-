@@ -1,0 +1,9 @@
+The shimmering building to the north is barely visible now. So is a shadow of
+something further to the south.
+
+=
+Go back
+@0
+
+Keep south
+@15
