@@ -22,3 +22,7 @@ This video course is a comprehensive guide with live demonstrations of the const
 
 * [CISSP®️ Certification Domain 3: Security Architecture and Engineering Video Boot Camp 2019 [Video]](https://www.packtpub.com/application-development/cissp-certification-domain-3-security-architecture-and-engineering-video?utm_source=github&utm_medium=repository&utm_campaign=9781838646080)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785287800">https://packt.link/free-ebook/9781785287800 </a> </p>
